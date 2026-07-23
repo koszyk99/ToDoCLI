@@ -1,0 +1,15 @@
+/home/krzkos/ToDoCLI/bin/Debug/net10.0/ToDoCLI
+/home/krzkos/ToDoCLI/bin/Debug/net10.0/ToDoCLI.deps.json
+/home/krzkos/ToDoCLI/bin/Debug/net10.0/ToDoCLI.runtimeconfig.json
+/home/krzkos/ToDoCLI/bin/Debug/net10.0/ToDoCLI.dll
+/home/krzkos/ToDoCLI/bin/Debug/net10.0/ToDoCLI.pdb
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.AssemblyInfoInputs.cache
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.AssemblyInfo.cs
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.csproj.CoreCompileInputs.cache
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.sourcelink.json
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.dll
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/refint/ToDoCLI.dll
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.pdb
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ToDoCLI.genruntimeconfig.cache
+/home/krzkos/ToDoCLI/obj/Debug/net10.0/ref/ToDoCLI.dll
