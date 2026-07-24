@@ -7,7 +7,7 @@ public class TodoItem
     public DateTime CreatedAt { get; set; }
     public DateTime? CompletedAt { get; set; }
     public bool IsDone { get; set; }
-
+    public Priority Priority { get; set; }
     public TodoItem(int id, string title)
     {
         ID = id;
@@ -15,5 +15,6 @@ public class TodoItem
         CreatedAt = DateTime.Now;
         CompletedAt = null;
         IsDone = false;
+        Priority = Priority.Low;
     }
 }
